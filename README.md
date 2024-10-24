@@ -9,7 +9,7 @@
 
 ###
 
-<h3 align="left">I code with:</h3>
+<h1 align="left">I code with:</h1>
 
 ###
 
@@ -31,7 +31,9 @@
 
 ###
 
-<img align="right" height="150" src="https://camo.githubusercontent.com/3a6a5a375ed47fac730411faa0ec24ef9ef756f90cb2262ab0033f14accdfc14/68747470733a2f2f6d656469612e74656e6f722e636f6d2f425851674a736b56374c67414141416a2f393939392e676966"  />
+<br clear="both">
+
+<h1 align="left">Social media:</h1>
 
 ###
 
@@ -52,7 +54,9 @@
 
 ###
 
-<br clear="both">
+<img align="right" height="150" src="https://camo.githubusercontent.com/3a6a5a375ed47fac730411faa0ec24ef9ef756f90cb2262ab0033f14accdfc14/68747470733a2f2f6d656469612e74656e6f722e636f6d2f425851674a736b56374c67414141416a2f393939392e676966"  />
+
+###
 
 <img src="https://raw.githubusercontent.com/VictorZache/VictorZache/output/snake.svg" alt="Snake animation" />
 
