@@ -54,20 +54,20 @@
 
 ###
 
-<img align="right" height="150" src="https://camo.githubusercontent.com/3a6a5a375ed47fac730411faa0ec24ef9ef756f90cb2262ab0033f14accdfc14/68747470733a2f2f6d656469612e74656e6f722e636f6d2f425851674a736b56374c67414141416a2f393939392e676966"  />
+<img src="https://raw.githubusercontent.com/VictorZache/VictorZache/output/snake.svg" alt="Snake animation" />
 
 ###
 
-<img src="https://raw.githubusercontent.com/VictorZache/VictorZache/output/snake.svg" alt="Snake animation" />
+<br clear="both">
+
+<div align="center">
+  <img height="150" src="https://camo.githubusercontent.com/3a6a5a375ed47fac730411faa0ec24ef9ef756f90cb2262ab0033f14accdfc14/68747470733a2f2f6d656469612e74656e6f722e636f6d2f425851674a736b56374c67414141416a2f393939392e676966"  />
+</div>
 
 ###
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=VictorZache.VictorZache&left_color=dimgrey&right_color=forestgreen"  />
 </div>
-
-###
-
-<p align="left">Hello World!!</p>
 
 ###
