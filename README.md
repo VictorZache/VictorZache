@@ -1,5 +1,5 @@
-<h2 align="left">Hello human 👋! My name is João Victor and I'm a Software Engineering Student, from Brazil.</h2>
-## Hey 👋, I'm Victor Zaché!  
+<h2 align="left">Hello human 👋! My name is Victor Zaché and I'm a Software Engineering Student, from Brazil.</h2>
+  
   
 
 <a href="https://github.com/https://github.com/VictorZache" target="_blank">
