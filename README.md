@@ -1,79 +1,72 @@
-<h2 align="left">Hello human 👋! My name is João Victor and I'm a Software Engineering Student, from Brazil.</h2>
+# Hello, my name is **João Victor** and I'm a **Software Engineering Student** from Brazil 🇧🇷
 
-###
+---
 
-<table><tr><td valign="top" width="50%">
+## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=VictorZache&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+| | |
+|---|---|
+| ![VictorZache's Stats](https://github-readme-stats.vercel.app/api?username=VictorZache&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&rank_icon=github&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorZache&hide_border=true&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9) |
 
-</td><td valign="top" width="50%">
+---
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorZache&hide_border=true&layout=compact" align="left" style="width: 100%" />
+## 🛠 **I code with**
 
-</td></tr></table>  
+<p align="left">
+  <a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="Python" title="Python" /></a>&nbsp;
+  <a href="https://www.java.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="Java" title="Java" /></a>&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="JavaScript" title="JavaScript" /></a>&nbsp;
+  <a href="https://nodejs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45" alt="Node.js" title="Node.js" /></a>&nbsp;
+  <a href="https://expressjs.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="45" alt="Express" title="Express" /></a>&nbsp;
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="MySQL" title="MySQL" /></a>&nbsp;
+  <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="Git" title="Git" /></a>&nbsp;
+  <a href="https://www.w3.org/html/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="HTML5" title="HTML5" /></a>&nbsp;
+  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="CSS3" title="CSS3" /></a>&nbsp;
+  <a href="https://www.docker.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45" alt="Docker" title="Docker" /></a>&nbsp;
+  <a href="https://linux.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45" alt="Linux" title="Linux" /></a>&nbsp;
+  <a href="https://jestjs.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="45" alt="Jest" title="Jest" /></a>
+</p>
 
+---
 
-###
+## 🌐 **Social media**
 
-<h1 align="left">I code with:</h1>
+<p align="left">
+  <a href="https://www.linkedin.com/in/joão-victor-zache-gomes-da-silva-700567244/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40" alt="LinkedIn" /></a>&nbsp;
+  <a href="https://www.instagram.com/zach_vitu/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="40" alt="Instagram" /></a>&nbsp;
+  <a href="https://wa.me/+5581999568793" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="40" alt="WhatsApp" /></a>&nbsp;
+  <a href="https://www.hackerrank.com/profile/Joao_Zache0724" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" height="40" alt="HackerRank" /></a>&nbsp;
+  <a href="mailto:joaovictorzache@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40" alt="Gmail" /></a>
+</p>
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" height="35" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" height="35" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="35" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="35" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo"  />
-</div>
+## 🐍 **Contribution Snake**
 
-###
+<p align="center">
+  <img src="https://raw.githubusercontent.com/VictorZache/VictorZache/output/snake.svg" alt="Snake animation" width="100%" />
+</p>
 
-<br clear="both">
+---
 
-<h1 align="left">Social media:</h1>
+## 👁 **Profile Views**
 
-###
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=VictorZache.VictorZache&left_color=0d1117&right_color=58a6ff&left_text=Views" alt="Visitor badge" />
+</p>
 
-<div align="left">
-  <a href="https://www.instagram.com/zach_vitu/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://wa.me/+5581999568793" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/joão-victor-zache-gomes-da-silva-700567244/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.hackerrank.com/profile/Joao_Zache0724" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
-  </a>
-</div>
+---
 
-###
+## 🏷 **Quick Facts**
 
-<img src="https://raw.githubusercontent.com/VictorZache/VictorZache/output/snake.svg" alt="Snake animation" />
+```txt
+🎓  Jala University — Software Engineering (Cohort 4)
+💼  Backend Developer — Node.js, Java, MySQL
+🔐  Cybersecurity enthusiast — AWS, Docker, Linux
+🎮  Gamer • 🎵 Gaita/Ukulele • 💪 Calisthenics
+📍  Recife, PE — Brazil
+```
 
-###
+---
 
-<br clear="both">
-
-<div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/3a6a5a375ed47fac730411faa0ec24ef9ef756f90cb2262ab0033f14accdfc14/68747470733a2f2f6d656469612e74656e6f722e636f6d2f425851674a736b56374c67414141416a2f393939392e676966"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=VictorZache.VictorZache&left_color=dimgrey&right_color=forestgreen"  />
-</div>
-
-###
+> *“Code is like humor. When you have to explain it, it's bad.”* — Cory House
