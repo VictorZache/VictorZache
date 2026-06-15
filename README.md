@@ -39,17 +39,6 @@
 
 ---
 
-## 🐍 **Contribution Snake**
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/VictorZache/VictorZache/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
-</p>
-
-<p align="center">
-  <sub>Generated with <a href="https://github.com/Platane/snk">github-snake-action</a> • Updates daily</sub>
-</p>
-
----
 
 ## 👁 **Profile Views**
 
