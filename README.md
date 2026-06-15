@@ -63,7 +63,6 @@
 🎓  Jala University — Software Engineering (Cohort 4)
 💼  Backend Developer — Node.js, Java, MySQL
 🔐  Cybersecurity enthusiast — AWS, Docker, Linux
-🎮  Gamer • 🎵 Gaita/Ukulele • 💪 Calisthenics
 📍  Recife, PE — Brazil
 ```
 
