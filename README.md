@@ -1,62 +1,120 @@
-# Hello. My name is **João Victor** and I'm a **Software Engineering Student** from Brazil 🇧🇷
+
+<div align="center">
+
+# 👋 Hi, I'm João Victor!
+
+### 💻 Software Engineering Student | 🇧🇷 Brazil
+
+[![GitHub](https://img.shields.io/badge/GitHub-VictorZache-181717?style=for-the-badge&logo=github)](https://github.com/VictorZache)
+
+</div>
 
 ---
 
-## 📊 GitHub Stats
+<div align="center">
 
-| | |
-|---|---|
-| ![VictorZache's Stats](https://github-readme-stats.vercel.app/api?username=VictorZache&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&rank_icon=github&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorZache&hide_border=true&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9) |
+## 💫 About Me
 
----
+🎓 Software Engineering student at **Jala University** and **UNIT-PE**.
 
-## 🛠 **I code with**
+💻 Interested in software development, problem-solving, and technology.
 
-<p align="left">
-  <a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="Python" title="Python" /></a>&nbsp;
-  <a href="https://www.java.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="Java" title="Java" /></a>&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="JavaScript" title="JavaScript" /></a>&nbsp;
-  <a href="https://nodejs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45" alt="Node.js" title="Node.js" /></a>&nbsp;
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="MySQL" title="MySQL" /></a>&nbsp;
-  <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="Git" title="Git" /></a>&nbsp;
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="HTML5" title="HTML5" /></a>&nbsp;
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="CSS3" title="CSS3" /></a>&nbsp;
-  <a href="https://www.docker.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45" alt="Docker" title="Docker" /></a>&nbsp;
-  <a href="https://linux.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45" alt="Linux" title="Linux" /></a>
-</p>
+🐍 Exploring Python, Java, JavaScript, and software engineering concepts.
+
+🛠️ Building projects to develop my programming skills and gain practical experience.
+
+🚀 Always learning, improving, and exploring new technologies.
+
+🇧🇷 Based in Brazil.
+
+</div>
 
 ---
 
-## 🌐 **Social media**
+<div align="center">
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/joão-victor-zache-gomes-da-silva-700567244/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40" alt="LinkedIn" /></a>&nbsp;
-  <a href="https://www.instagram.com/zach_vitu/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="40" alt="Instagram" /></a>&nbsp;
-  <a href="https://wa.me/+5581999568793" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="40" alt="WhatsApp" /></a>&nbsp;
-  <a href="https://www.hackerrank.com/profile/Joao_Zache0724" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" height="40" alt="HackerRank" /></a>&nbsp;
-  <a href="mailto:joaovictorzache@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40" alt="Gmail" /></a>
-</p>
+## 🌐 Connect With Me
 
----
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/zach_vitu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joão-victor-zaché-700567244)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victorzache.dev@gmail.com)
 
-
-## 👁 **Profile Views**
-
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=VictorZache.VictorZache&left_color=0d1117&right_color=58a6ff&left_text=Views" alt="Visitor badge" />
-</p>
+</div>
 
 ---
 
-## 🏷 **Quick Facts**
+<div align="center">
 
-```txt
-🎓  Jala University — Software Engineering (Cohort 4)
-💼  Backend Developer — Node.js, Java, MySQL
-🔐  Cybersecurity enthusiast — AWS, Docker, Linux
-📍  Recife, PE — Brazil
-```
+## 💻 Tech Stack
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+
+### Web Development
+
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+### Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Cloud & Tools
+
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+</div>
 
 ---
 
-> *“Code is like humor. When you have to explain it, it's bad.”* — Cory House
+<div align="center">
+
+## 📊 GitHub Statistics
+
+<img width="49%" src="https://github-readme-stats.shion.dev/api?username=VictorZache&theme=merko&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=VictorZache&theme=merko&hide_border=true" alt="GitHub Streak" />
+
+<br/><br/>
+
+<img width="40%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=VictorZache&theme=merko&hide_border=true&layout=compact&langs_count=8" alt="Most Used Languages" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🐍 GitHub Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/VictorZache/VictorZache/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/VictorZache/VictorZache/output/github-snake.svg">
+  <img alt="GitHub Contribution Snake Animation"
+    src="https://raw.githubusercontent.com/VictorZache/VictorZache/output/github-snake.svg"
+    width="100%">
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 Always Learning. Always Building.
+
+*"Every line of code is an opportunity to learn something new."*
+
+</div>
