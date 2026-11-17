@@ -68,16 +68,6 @@
 
 ---
 
-## 🐍 GitHub Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VictorZache/VictorZache/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VictorZache/VictorZache/output/github-snake.svg">
-  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/VictorZache/VictorZache/output/github-snake.svg" width="100%">
-</picture>
-
----
-
 ### 🚀 Always Learning. Always Building.
 
 *"Every line of code is an opportunity to learn something new."*
